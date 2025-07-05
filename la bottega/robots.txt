@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://osterialabottegafollonica.com/sitemap.xml
